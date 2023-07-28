@@ -1,6 +1,5 @@
 # pqSort
 Priority Queue Selection/Insertion Sort C++
-Brent Voyles
 
     Description: This program prompts a user for input and inquires whether
     to perform selection or insertion sort on the input sequence of integers.
